@@ -4,5 +4,6 @@ public class Aluno {
 
     public void cadastrar(){
         System.out.println("Cadastrar Aluno");
+        System.out.println("Achei um bug");
     }
 }
