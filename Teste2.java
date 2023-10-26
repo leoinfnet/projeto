@@ -1,7 +1,7 @@
 public class Teste2 {
     public static void main(String [] args){
         System.out.println("Teste2 Corrigido");
-        System.out.println("Teste Corrigido");
+        System.out.println("Teste Corrigido989");
     }
     public int calcularMedia(){
         System.out.println("Calculando a media");
@@ -14,7 +14,7 @@ public class Teste2 {
     }
     public int calcularMediaMediana2(){
         System.out.println("Calculando a mediana");
-        System.out.println("Calculando a mediana");
+        System.out.println("Calculando a mediana789789789");
         return 0;
     }
 }
