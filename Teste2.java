@@ -1,7 +1,7 @@
 public class Teste2 {
     public static void main(String [] args){
         System.out.println("Teste2 Corrigido");
-        System.out.println("Teste Corrigido1123212");
+        System.out.println("Teste Corrigido12");
     }
     public int calcularMedia(){
         System.out.println("Calculando a media");
