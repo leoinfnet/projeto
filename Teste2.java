@@ -9,6 +9,7 @@ public class Teste2 {
     }
     public int calcularMediaMediana(){
         System.out.println("Calculando a mediana");
+        System.out.println("Calculando a mediana2");
         return 0;
     }
 }
