@@ -14,7 +14,7 @@ public class Teste2 {
     }
     public int calcularMediaMediana2(){
         System.out.println("Calculando a mediana");
-        System.out.println("Calculando a mediana2");
+        System.out.println("Calculando a mediana");
         return 0;
     }
 }
