@@ -23,9 +23,6 @@ public class Teste2 {
     }
     public int calcularMediaHarmonica2(){
         System.out.println("Calculando a harmonica");
-         System.out.println("Calculando a harmonica");
-          System.out.println("Calculando a harmonica");
-           System.out.println("Calculando a harmonica");
         return 0;
     }
 }
