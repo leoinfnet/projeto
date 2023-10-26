@@ -5,7 +5,7 @@ public class Teste2 {
         System.out.println("Teste Corrigido1232131");
     }
     public int calcularMedia(){
-        System.out.println("Calculando a media");
+        System.out.println("Calculando a medi2a");
         return 0;
     }
     public int calcularMediaMediana(){
