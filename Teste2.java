@@ -21,4 +21,8 @@ public class Teste2 {
         System.out.println("Calculando a harmonica");
         return 0;
     }
+    public int calcularMediaHarmonica2(){
+        System.out.println("Calculando a harmonica");
+        return 0;
+    }
 }
